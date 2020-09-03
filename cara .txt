@@ -1,1 +1,2 @@
 fungsi 1
+menambah fungsi 2 
